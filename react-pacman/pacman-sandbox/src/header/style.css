@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Original+Surfer&display=swap');
+
+
+.header {
+  height: 83px;
+  background-color: #566b66;
+  color: #f99b66;
+  display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header .title {
+  font-size: 40px;
+  width: 35%;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.header .score {
+  font-size: 28px;
+  width: 70%;
+  text-align: right;
+  margin-top: 10px;
+}
+
+.img{
+  height: 83px;
+}
+
+.img2{
+  height: 70px;
+}
+.score{
+  font-family: 'Original Surfer', cursive;
+}

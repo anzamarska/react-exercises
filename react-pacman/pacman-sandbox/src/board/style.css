@@ -1,0 +1,17 @@
+.board {
+  height: calc(100vh - 120px);
+  width: calc(100vw - 20px);
+  /* background: url("../img/background.jpg"); */
+  position: relative;
+  border: 10px #566b66 solid;
+  
+  background-image: url("../img/background.jpg");
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* .bg{
+  height: 100rem;
+} */
